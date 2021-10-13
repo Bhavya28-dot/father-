@@ -1,0 +1,14 @@
+body{
+    background-image:radial-gradient( rgb(115, 171, 235),rgb(255, 183, 195));
+}
+#text, #text2{
+    color: white;
+    text-align: center;
+}
+#img{
+
+height: 70%;   
+ width: 40%;
+}
+
+
